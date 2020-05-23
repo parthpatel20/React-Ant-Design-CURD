@@ -1,0 +1,53 @@
+{
+  "product": [
+    {
+      "name": "Key Board",
+      "type": "Hardware",
+      "price": 102,
+      "description": "Looks Good",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Monitor",
+      "price": 200,
+      "type": "Hardware",
+      "description": "Worth it"
+    },
+    {
+      "id": 1590233829436,
+      "name": "Dell PC",
+      "type": "Hardware",
+      "price": 56,
+      "description": "hjnx"
+    },
+    {
+      "id": 1590234267543,
+      "name": "Macbook",
+      "type": "Hardware",
+      "price": 2345,
+      "description": "Apple"
+    },
+    {
+      "id": 1590234911823,
+      "name": "Quick Heal",
+      "type": "Software",
+      "price": 345,
+      "description": "Antivirus"
+    },
+    {
+      "id": 1590235334439,
+      "name": "Monitor",
+      "type": "Hardware",
+      "price": 2200,
+      "description": "Worth it"
+    },
+    {
+      "name": "Surface",
+      "type": "Hardware",
+      "price": 2500,
+      "description": "Nice to buy",
+      "id": 1590245147493
+    }
+  ]
+}

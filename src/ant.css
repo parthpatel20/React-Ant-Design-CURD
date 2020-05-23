@@ -1,0 +1,36 @@
+.ant-layout-header{
+  background-color: #e7e8ec !important;
+  color: black !important;
+  text-align: center;
+  font-size: larger;
+}
+
+.ant-layout-footer{
+  background-color: #e7e8ec !important;
+  color: black !important;
+  text-align: center;
+  font-size: larger;
+}
+
+.site-layout-content {
+  background: #fff;
+  padding: 24px;
+  min-height: 280px;
+}
+.layoutContent{
+    background-color: white;
+}
+.searchDiv{
+    padding-left: 1%;
+    padding-bottom: 15px;
+    padding-right :2%;
+}
+
+.addButton{
+    color: #096eba !important;
+     border-color: #096eba !important;
+}
+
+.antRaw{
+    display: grid !important;
+}
